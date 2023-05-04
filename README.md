@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcticKannan
 - 👀 Coding. Gaming. Technology.
-- 🌱 I’m currently learning python and spanish.
+- 🌱 I’m currently learning web development.
 - 📫 arctickannan2007@gmail.com
 
 <!---
