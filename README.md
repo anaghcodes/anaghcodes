@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @anaghcodes<br>👀 Coding. Gaming. Technology.<br>🧑‍💻 Web developer @Adolescencesio<br>📫 anaghcodes@gmail.com<br>🌱 Learning new things everyday
+<br>👋 Hi, I’m @anaghcodes<br>👀 Coding. Gaming. Technology.<br>🧑‍💻 Web developer @Adolescencesio<br>🌱 Learning new things everyday<br>📫 anaghcodes@gmail.com
 
 
 ## 🌐 Socials:
