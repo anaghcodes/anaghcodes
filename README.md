@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm the lead web developer @Adolescencesio.<br>Currently in the process of learning C++.<br>If you want a nice little website, I'm your guy!<br>As always, looking for opportunities.
+👨‍💻I'm the lead web developer @Adolescencesio.<br>📖Currently in the process of learning C++.<br>😎If you want a nice little website, I'm your guy!<br>🌱As always, looking for opportunities.
 
 
 ## 🌐 Socials:
