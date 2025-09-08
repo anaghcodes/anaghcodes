@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻I'm the lead web developer @Adolescencesio.<br>📖Currently in the process of learning C++.<br>😎If you want a nice little website, I'm your guy!<br>🌱As always, looking for opportunities.
+👋Hey! I'm Anagh B R, 1st ECE student at SCTCE
+👨‍💻Lead web developer @Adolescencesio.<br>📖Currently in the process of learning C++.<br>😎If you want a nice little website, I'm your guy!<br>🌱As always, looking for opportunities.
 
 
 ## 🌐 Socials:
